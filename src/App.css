@@ -1,0 +1,15 @@
+.react-datepicker-wrapper input {
+  width: 100%;
+  padding: 8.5px 14px;
+  box-sizing: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.322);
+  border-radius: 3px;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  background-color: transparent;
+}
+
+.react-datepicker-wrapper input:focus {
+  border: 1px solid transparent;
+  outline: 2px solid #1976d2;
+}
